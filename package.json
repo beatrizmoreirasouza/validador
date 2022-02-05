@@ -1,0 +1,15 @@
+{
+  "name": "validador",
+  "version": "1.0.0",
+  "description": "validador de cpf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beatriz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cpf-cnpj-validator": "^1.0.3"
+  }
+}
